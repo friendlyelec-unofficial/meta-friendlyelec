@@ -1,0 +1,2 @@
+# meta-friendlyelec
+friendlyelec bsp
